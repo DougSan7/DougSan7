@@ -1,8 +1,6 @@
-# Olá, eu sou o Douglas Santos 👋
 
-<div align="center">
-[Desenvolvedor Back-end | São Paulo, Brasil](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Santos&section=footer&fontAlign=50)
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Santos&section=footer&fontAlign=50&desc=BACK-END%20DEVELOPER&descAlignY=67)
+
 
 <div align="center">
 
