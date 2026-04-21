@@ -17,6 +17,7 @@
 
 ## 💡 Sobre Mim
 
+```typescript
 const douglasSantos = {
   role       : "Back-End Developer",
   location   : "São Paulo, Brasil 🇧🇷",
@@ -26,17 +27,14 @@ const douglasSantos = {
   principles : ["Clean Code", "Boas Práticas", "Arquitetura Sólida"],
   funFact    : "Um programador em desenvolvimento — e sempre evoluindo 🚀"
 };
+```
 
----
-
-<br/>
-
-| 🔭 Trabalhando em | Projetos Full-Stack pessoais e freelance |
-|---|---|
-| 🌱 Aprendendo | Arquitetura de sistemas e Cloud |
-| 💬 Pergunte-me sobre | Java, JavaScript, TypeScript, React, Node.js |
-| 📫 Contato | joaohenrique1025152@hotmail.com |
-| ⚡ Fun fact | Todo bug é uma feature não documentada 🐛 |
+| 🔭 Trabalhando em | APIs REST com NestJS e Spring Boot |
+| --- | --- |
+| 🌱 Aprendendo | Arquitetura back-end e boas práticas de desenvolvimento |
+| 💬 Pergunte-me sobre | TypeScript, NestJS, Node.js, Java, Spring Boot, PostgreSQL |
+| 📍 Localização | São Paulo, Brasil |
+| ⚡ Fun fact | Todo bug é só uma feature esperando documentação 🐛 |
 
 ---
 
