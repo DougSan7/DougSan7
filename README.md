@@ -1,4 +1,4 @@
-# [Olá, eu sou o Douglas Santos](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Santos&section=footer&fontAlign=50) 👋
+[Olá, eu sou o Douglas Santos](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Santos&section=footer&fontAlign=50)
 
 <div align="center">
 
