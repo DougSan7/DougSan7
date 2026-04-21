@@ -62,7 +62,7 @@ const douglasSantos = {
 </div>
 
 <br/>
-
+##
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Healer101015&bg_color=0D1117&color=7AA2F7&line=0095D5&point=FFFFFF&area=true&area_color=0095D530&hide_border=true&custom_title=Atividade%20de%20Contribuições" />
 </div>
