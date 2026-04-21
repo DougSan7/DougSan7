@@ -15,12 +15,28 @@
   </a>
 </p>
 
-## 🚀 About Me
-Sou desenvolvedora em transição de carreira para a área de **Backend**, com foco na construção de APIs robustas, bem estruturadas e escaláveis.
+## 💡 Sobre Mim
 
-Tenho experiência com **JavaScript e TypeScript**, desenvolvimento de APIs com **Node.js e NestJS**, e atualmente estou aprofundando meus estudos em **Java**, aplicando conceitos sólidos de **Programação Orientada a Objetos**, boas práticas e integração com banco de dados **MySQL**.
+const douglasSantos = {
+  role       : "Back-End Developer",
+  location   : "São Paulo, Brasil 🇧🇷",
+  studying   : "Desenvolvimento de Software",
+  building   : ["APIs REST", "Blog Pessoal com NestJS", "Sistemas Back-End"],
+  stack      : ["TypeScript", "NestJS", "Node.js", "Java", "Spring Boot", "PostgreSQL"],
+  principles : ["Clean Code", "Boas Práticas", "Arquitetura Sólida"],
+  funFact    : "Um programador em desenvolvimento — e sempre evoluindo 🚀"
+};
 
-Busco evoluir constantemente em arquitetura de software, código limpo e desenvolvimento backend profissional.
+---
+
+<br/>
+
+| 🔭 Trabalhando em | Projetos Full-Stack pessoais e freelance |
+|---|---|
+| 🌱 Aprendendo | Arquitetura de sistemas e Cloud |
+| 💬 Pergunte-me sobre | Java, JavaScript, TypeScript, React, Node.js |
+| 📫 Contato | joaohenrique1025152@hotmail.com |
+| ⚡ Fun fact | Todo bug é uma feature não documentada 🐛 |
 
 ---
 
@@ -28,9 +44,9 @@ Busco evoluir constantemente em arquitetura de software, código limpo e desenvo
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,mysql,nestjs" />
 
 ### 🔹 Backend
+- TypeScript
 - Node.js
 - NestJS
-- TypeScript
 
 ### 🔹 Banco de Dados
 - MySQL
@@ -42,14 +58,12 @@ Busco evoluir constantemente em arquitetura de software, código limpo e desenvo
 
 ---
 
-## 📚 What I’m Learning
-- ☕ Java (POO, boas práticas)
-- 🧱 Arquitetura backend
-- 🧼 Clean Code e organização de projetos
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Healer101015&theme=tokyonight&hide_border=true&background=0D1117&stroke=0095D5&ring=0095D5&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=C9D1D9&dates=C9D1D9" />
+</div>
 
----
+<br/>
 
-## 📌 Current Focus
-- Desenvolver projetos full stack com **React, NestJS e MySQL**
-- Consolidar boas práticas com **TypeScript**
-- Construir um portfólio sólido para minha primeira oportunidade como desenvolvedora
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Healer101015&bg_color=0D1117&color=7AA2F7&line=0095D5&point=FFFFFF&area=true&area_color=0095D530&hide_border=true&custom_title=Atividade%20de%20Contribuições" />
+</div>
