@@ -9,7 +9,6 @@
   </p>
 </p>
 
-##
 
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-santos-ds/">
@@ -28,7 +27,9 @@ const douglasSantos = {
   building   : ["APIs REST", "Blog Pessoal com NestJS", "Sistemas Back-End"],
   stack      : ["TypeScript", "NestJS", "Node.js", MySQL],
 };
+
 ```
+##
 
 | 🔭 Trabalhando em | Projetos Full-Stack pessoais e freelance  |
 | --- | --- |
