@@ -29,7 +29,7 @@ const douglasSantos = {
 };
 
 ```
-
+##
 | 🔭 Trabalhando em | Projetos Full-Stack pessoais e freelance  |
 | --- | --- |
 | 🌱 Aprendendo | Arquitetura back-end e boas práticas de desenvolvimento |
