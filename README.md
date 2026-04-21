@@ -3,7 +3,6 @@
 
 
 <p align="center">
-  <h1 align="center">👋 Olá, eu sou a Andressa! </h1>
   <p align="center">
        <strong>Full Stack Developer</strong><br/>
     TypeScript • React • Node.js • NestJS • MySQL
@@ -11,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andressa-andrade-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Andressa-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/douglas-santos-ds/">
+    <img src="https://img.shields.io/badge/LinkedIn-Douglas-Santos-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
