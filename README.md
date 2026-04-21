@@ -23,18 +23,15 @@ const douglasSantos = {
   location   : "São Paulo, Brasil 🇧🇷",
   studying   : "Desenvolvimento de Software",
   building   : ["APIs REST", "Blog Pessoal com NestJS", "Sistemas Back-End"],
-  stack      : ["TypeScript", "NestJS", "Node.js", "Java", "Spring Boot", "PostgreSQL"],
-  principles : ["Clean Code", "Boas Práticas", "Arquitetura Sólida"],
-  funFact    : "Um programador em desenvolvimento — e sempre evoluindo 🚀"
+  stack      : ["TypeScript", "NestJS", "Node.js", MySQL],
 };
 ```
 
-| 🔭 Trabalhando em | APIs REST com NestJS e Spring Boot |
+| 🔭 Trabalhando em | Projetos Full-Stack pessoais e freelance  |
 | --- | --- |
 | 🌱 Aprendendo | Arquitetura back-end e boas práticas de desenvolvimento |
-| 💬 Pergunte-me sobre | TypeScript, NestJS, Node.js, Java, Spring Boot, PostgreSQL |
+| 💬 Pergunte-me sobre | TypeScript, NestJS, Node.js, MySQL |
 | 📍 Localização | São Paulo, Brasil |
-| ⚡ Fun fact | Todo bug é só uma feature esperando documentação 🐛 |
 
 ---
 
