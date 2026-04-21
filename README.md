@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Santos&section=footer&fontAlign=50&desc=BACK-END%20DEVELOPER&descAlignY=67)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Santos&section=footer&fontAlign=50&desc=%20FULL%20STACK%20DEVELOPER&descAlignY=67)
 
 
 <div align="center">
