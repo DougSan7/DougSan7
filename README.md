@@ -30,7 +30,6 @@ const douglasSantos = {
 
 ```
 ##
-##
 
 | 🔭 Trabalhando em | Projetos Full-Stack pessoais e freelance  |
 | --- | --- |
