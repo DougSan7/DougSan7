@@ -39,7 +39,7 @@ const douglasSantos = {
 ---
 
 ## 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,mysql,nestjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,mysql,nestjs,java" />
 
 ### 🔹 Backend
 - TypeScript
